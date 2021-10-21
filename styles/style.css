@@ -1,0 +1,38 @@
+
+
+
+:root {
+
+   color-scheme: light dark; /* both supported */
+   font-family: sans-serif;
+
+   --colorSurface: #ffffff;
+   --radioRed: #EF5350;
+   --radioGrey: #BDBDBD;
+
+}
+
+.light {
+   --colorSurface: #ffffff;
+   --radioRed: #EF5350;
+   --radioGrey: #BDBDBD;
+}
+
+.dark {
+   --colorSurface: #121212;
+   --radioRed: #E57373;
+   --radioGrey: #E0E0E0;
+}
+
+body {
+
+}
+
+.appname {
+	color: var(--radioRed);
+}
+
+.brandname {
+	color: var(--radioGrey);
+}
+
