@@ -33,11 +33,11 @@ body {
 	color: var(--radioGrey);
 }
 
-p {
+p.appname {
    color: var(--radioRed);
 }
 
-span {
+span.brandname {
    color: var(--radioGrey);
 }
 
