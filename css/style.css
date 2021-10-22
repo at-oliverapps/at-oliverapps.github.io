@@ -33,12 +33,3 @@ body {
 .brandname {
 	color: var(--radioGrey);
 }
-
-p.appname {
-   color: var(--radioRed);
-}
-
-span.brandname {
-   color: var(--radioGrey);
-}
-
