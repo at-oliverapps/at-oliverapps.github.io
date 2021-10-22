@@ -27,6 +27,7 @@ body {
 
 .appname {
 	color: var(--radioRed);
+   font-weight: bold;
 }
 
 .brandname {
