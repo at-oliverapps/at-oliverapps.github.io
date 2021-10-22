@@ -33,3 +33,11 @@ body {
 	color: var(--radioGrey);
 }
 
+p {
+   color: var(--radioRed);
+}
+
+span {
+   color: var(--radioGrey);
+}
+
