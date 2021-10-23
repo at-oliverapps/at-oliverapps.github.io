@@ -22,7 +22,11 @@
 }
 
 body {
-
+      align-items: center;
+      display: flex;
+      justify-content: center;
+      width: 100vw;
+      height: 100vh;
 }
 
 .appname {
@@ -33,9 +37,3 @@ body {
 .brandname {
 	color: var(--radioGrey);
 }
-
-.container {
-    display: flex;
-    align-items: center;
-}
-
