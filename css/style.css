@@ -21,14 +21,6 @@
    --radioGrey: #E0E0E0;
 }
 
-body {
-      align-items: center;
-      display: flex;
-      justify-content: center;
-      width: 100vw;
-      height: 100vh;
-}
-
 .appname {
 	color: var(--radioRed);
    font-weight: bold;
